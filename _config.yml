@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Data Science & Analytics, Machine Learning"
   location         : "Washington State"
-  employer         : "Company"
+  employer         : # "Company"
   uri              : # URL
   email            : "none@example.org" 
 
