@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome"
+title: "Catalina Ifrim"
 author_profile: true
 redirect_from: 
   - /about/
