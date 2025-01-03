@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "" # "Catalina Ifrim"
+title: "Catalina Ifrim"  # ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# Welcome to my website!
+Welcome to my website!
 
 About Me
 ======
