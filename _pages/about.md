@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Some text here
+Welcome to my website!
 
 About Me
 ======
