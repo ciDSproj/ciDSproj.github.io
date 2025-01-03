@@ -6,16 +6,16 @@
 
 main:
   - title: "Data Analytics" # "Publications"
-    url: /DataAnalytics/
+    url: /dataanalytics/
 
   - title: "Machine Learning" # "Talks"
-    url: /talks/    
+    url: /machinelearning/    
 
   # - title: "Teaching"
   #   url: /teaching/    
     
   - title: "Dashboard"
-    url: /publications/
+    url: /dashboard/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
