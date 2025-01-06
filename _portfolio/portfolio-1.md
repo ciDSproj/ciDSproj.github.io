@@ -1,6 +1,6 @@
 ---
 title: "Online Sales Analysis"
-excerpt: "The analysis covers retrieving data from a database, data manipulation, computation and visualization, for answering the business questions.
+excerpt: "The analysis covers retrieving data from a database, data manipulation, visualizations and answering the business questions.
 <br/>
 
 
