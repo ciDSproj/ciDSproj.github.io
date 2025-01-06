@@ -1,6 +1,6 @@
 ---
 title: "Online Sales Analysis"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/WP_000045.jpg'>"
+excerpt: "The analysis covers retrieving data from a database, data manipulation, computation and visualization, for answering the business questions.<br/><img src='/images/WP_000045.jpg'>"
 collection: portfolio
 ---
 
