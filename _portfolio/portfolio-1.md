@@ -3,7 +3,7 @@ title: "Online Sales Analysis"
 excerpt: "The analysis covers retrieving data from a database, data manipulation, visualizations and answering the business questions.<br/>
 
 
-<img src='/images/sales3.png'>"
+<img src='/images/sales4.png'>"
 collection: portfolio
 ---
 
