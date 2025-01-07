@@ -20,13 +20,15 @@ Question 1: Which Product Categories have the highest sales volumes?
 add details here
 
 
+
 <img src='/images/sales1.png'>
 
 
 ---
 Question 2: How do sales vary over time for each product category?
 
-details
+add details
+
 
 
 <img src='/images/sales3.png'>
@@ -35,11 +37,27 @@ details
 ---
 Question 3: What seasonal patterns are there in sales volume?
 
+add details
 
+
+
+<img src='/images/sales4.png'>
+
+
+more details
+
+
+
+<img src='/images/sales5.png'>
 
 ---
 Question 4: What is the distribution of Payment Methods?
 
+add details
+
+
+
+<img src='/images/sales6.png'>
 
 
 
