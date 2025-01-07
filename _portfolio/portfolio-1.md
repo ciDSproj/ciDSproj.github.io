@@ -17,11 +17,19 @@ The project contains the analysis of the Online Sales Dataset which provides an 
 ---
 Question 1: Which Product Categories have the highest sales volumes?
 
+add details here
+
+
 <img src='/images/sales1.png'>
+
 
 ---
 Question 2: How do sales vary over time for each product category?
 
+details
+
+
+<img src='/images/sales3.png'>
 
 
 ---
