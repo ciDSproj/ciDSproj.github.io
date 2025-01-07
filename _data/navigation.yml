@@ -6,7 +6,7 @@
 
 main:
   - title: "Data Analytics" # "Publications"
-    url: /dataanalytics/
+    url: /dataanalysis/
 
   - title: "Machine Learning" # "Talks"
     url: /machinelearning/    
