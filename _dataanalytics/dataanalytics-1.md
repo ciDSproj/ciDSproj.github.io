@@ -4,7 +4,7 @@ excerpt: "The analysis covers retrieving data from a database, data manipulation
 
 
 <img src='/images/sales4.png'>"
-collection: portfolio
+collection: dataanalytics
 ---
 
 The project contains the analysis of the Online Sales Dataset which provides an overview of global online sales transactions across different product categories between January and August 2024.
