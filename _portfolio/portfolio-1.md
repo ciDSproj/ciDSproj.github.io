@@ -8,16 +8,20 @@ collection: portfolio
 ---
 
 The project contains the analysis of the Online Sales Dataset which provides an overview of global online sales transactions across different product categories between January and August 2024.
-<br/>
-
 
 Adding a horizontal line
 ---
 
 
 
-Another horizontal line
----
+One more horizontal line
+***
+
+
+
+<br/>
+
+
 
 
 
