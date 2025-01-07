@@ -8,7 +8,10 @@ excerpt: "The analysis covers retrieving data from a database, data manipulation
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+The project contains the analysis of the Online Sales Dataset which provides an overview of global online sales transactions across different product categories between January and August 2024. 
 <br/>
+
+
+
 [GitHub](https://github.com)
 
