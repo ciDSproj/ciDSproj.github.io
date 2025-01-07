@@ -11,6 +11,17 @@ The project contains the analysis of the Online Sales Dataset which provides an 
 <br/>
 
 
+Adding a horizontal line
+---
+
+
+
+Another horizontal line
+---
+
+
+
+
 
 [GitHub](https://github.com)
 
