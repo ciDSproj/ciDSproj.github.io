@@ -41,13 +41,6 @@ add details
 
 
 
-<img src='/images/sales4.png'>
-
-
-more details
-
-
-
 <img src='/images/sales5.png'>
 
 ---
