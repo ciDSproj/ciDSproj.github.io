@@ -221,9 +221,12 @@ collections:
   dataanalysis:
     output: true
     permalink: /:collection/:path/
-  talks:
+  machinelearning:
     output: true
     permalink: /:collection/:path/
+  #talks:
+  #  output: true
+  #  permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -282,6 +285,16 @@ defaults:
       author_profile: true
       share: true
       comment: true
+  # machinelearning
+  - scope:
+      path: ""
+      type: machinelearning
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+
   # _talks
   - scope:
       path: ""

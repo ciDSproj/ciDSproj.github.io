@@ -8,7 +8,7 @@ main:
   - title: "Data Analysis"
     url: /dataanalysis/
 
-  - title: "Machine Learning" # "Talks"
+  - title: "Machine Learning"
     url: /machinelearning/    
 
   # - title: "Teaching"
