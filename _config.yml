@@ -224,6 +224,10 @@ collections:
   machinelearning:
     output: true
     permalink: /:collection/:path/
+  dashboard:
+    output: true
+    permalink: /:collection/:path/
+
   #talks:
   #  output: true
   #  permalink: /:collection/:path/
@@ -276,7 +280,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # dataanalysis
+  # _dataanalysis
   - scope:
       path: ""
       type: dataanalysis
@@ -285,7 +289,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # machinelearning
+  # _machinelearning
   - scope:
       path: ""
       type: machinelearning
@@ -294,7 +298,15 @@ defaults:
       author_profile: true
       share: true
       comment: true
-
+  # _dashboard
+  - scope:
+      path: ""
+      type: dashboard
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
   # _talks
   - scope:
       path: ""
