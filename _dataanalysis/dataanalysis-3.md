@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 3"
-excerpt: "Long description of portfolio item number 3<br/><img src='/images/500x300.png'>"
+title: "Students Exam Scores"
+excerpt: "The analysis focuses on the influence of a variety of personal and socio-economic factors on student’s exam scores.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
