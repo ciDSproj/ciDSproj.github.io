@@ -3,7 +3,7 @@ title: "Web Scraping Data Science Jobs"
 excerpt: "In this project I analyze the dataset obtained by scraping the HTML data from the Indeed jobs web page<br/>
 
 
-<img src='/images/ws4.png'>"
+<img src='/images/ws4a.png'>"
 collection: dataanalysis
 ---
 
