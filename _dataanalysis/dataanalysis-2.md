@@ -12,3 +12,42 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 <br/>
 [GitHub](https://github.com)
 
+
+
+---
+Q1: Which are the companies with the highest number of job listings?
+
+add details here
+
+
+
+<img src='/images/da2_jobs_comp.png'>
+
+
+---
+Q2: What is the average salary?
+
+add details
+
+
+
+
+---
+Q3: What is the count the specific words in jobs Summary? Make a word cloud.
+
+add details
+
+
+
+<img src='/images/da2_word_cloud.png'>
+
+---
+Q4: What is the frequency of words for specific tools and platforms, skills, and roles?
+
+add details
+
+
+
+<img src='/images/da2_tools_roles.png'>
+
+
