@@ -27,10 +27,11 @@ add details here
 ---
 **What is the average salary?**
 
-test logo image
+add details - no image
 
 
-![alt text](C:\Users\catif\repo\ciDSproj.github.io\images\da2_jobs_comp.png "Logo Title Text 1")
+
+
 
 
 ---
