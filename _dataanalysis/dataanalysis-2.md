@@ -27,7 +27,7 @@ add details here
 ---
 Q2: What is the average salary?
 
-add details
+test logo image
 
 
 ![alt text](C:\Users\catif\repo\ciDSproj.github.io\images\da2_jobs_comp.png "Logo Title Text 1")
