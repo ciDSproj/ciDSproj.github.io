@@ -15,7 +15,7 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 
 
 ---
-**Q1: Which are the companies with the highest number of job listings?**
+**Which are the companies with the highest number of job listings?**
 
 add details here
 
@@ -25,7 +25,7 @@ add details here
 
 
 ---
-Q2: What is the average salary?
+**What is the average salary?**
 
 test logo image
 
@@ -34,7 +34,7 @@ test logo image
 
 
 ---
-Q3: What is the count the specific words in jobs Summary? Make a word cloud.
+**Create a word cloud using words in jobs summary**
 
 add details
 
@@ -44,7 +44,7 @@ add details
 
 
 ---
-Q4: What is the frequency of words for specific tools and platforms, skills, and roles?
+**What is the frequency of words for specific tools and platforms, skills, and roles?**
 
 add details
 
