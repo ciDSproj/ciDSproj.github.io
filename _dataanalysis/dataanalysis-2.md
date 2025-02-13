@@ -21,7 +21,7 @@ add details here
 
 
 
-<img src='/images/da2_jobs_comp.png'>
+<img src='/images/da2_jobs_comp.png' style='width:75%;' alt='Description of the image'>
 
 
 ---
@@ -39,7 +39,7 @@ add details
 
 
 
-<img src='/images/da2_word_cloud.png'>
+<img src='/images/da2_word_cloud.png' style='width:75%;' alt='Description of the image'>
 
 ---
 Q4: What is the frequency of words for specific tools and platforms, skills, and roles?
