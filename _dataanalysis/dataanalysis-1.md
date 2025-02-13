@@ -15,7 +15,7 @@ The project contains the analysis of the Online Sales Dataset which provides an 
 
 
 ---
-Question 1: Which Product Categories have the highest sales volumes?
+**Which Product Categories have the highest sales volumes?**
 
 add details here
 
@@ -25,7 +25,7 @@ add details here
 
 
 ---
-Question 2: How do sales vary over time for each product category?
+**How do sales vary over time for each product category?**
 
 add details
 
@@ -35,7 +35,7 @@ add details
 
 
 ---
-Question 3: What seasonal patterns are there in sales volume?
+**What seasonal patterns are there in sales volume?**
 
 add details
 
@@ -44,7 +44,7 @@ add details
 <img src='/images/sales5.png'>
 
 ---
-Question 4: What is the distribution of Payment Methods?
+**What is the distribution of Payment Methods?**
 
 add details
 
