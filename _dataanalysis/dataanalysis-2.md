@@ -15,6 +15,16 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 
 
 ---
+**Scraping data**
+
+add details here
+
+
+
+
+
+
+---
 **Which are the companies with the highest number of job listings?**
 
 add details here
@@ -33,15 +43,6 @@ add details - no image
 
 
 
-
----
-**Create a word cloud using words in jobs summary**
-
-add details
-
-
-
-<img src='/images/da2_word_cloud.png' style='width:75%;' alt='Description of the image'>
 
 
 ---
