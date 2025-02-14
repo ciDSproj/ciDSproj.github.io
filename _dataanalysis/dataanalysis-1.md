@@ -21,7 +21,7 @@ add details here
 
 
 
-<img src='/images/sales1.png'>
+<img src='/images/da1_monthly_sales.png'>
 
 
 ---
@@ -31,7 +31,7 @@ add details
 
 
 
-<img src='/images/sales3.png'>
+<img src='/images/da1_top_prod.png'>
 
 
 ---
@@ -41,7 +41,7 @@ add details
 
 
 
-<img src='/images/sales5.png'>
+<img src='/images/da1_heatmap.png'>
 
 ---
 **What is the distribution of payment methods?**
