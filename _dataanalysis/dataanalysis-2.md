@@ -3,7 +3,7 @@ title: "Indeed Jobs Web Scraping and Analysis"
 excerpt: "In this project I analyze the dataset obtained by scraping the HTML data from the Indeed jobs web page<br/>
 
 
-<img src='/images/da2_word_cloud.png' style='width:75%;' alt='Description of the image'>"
+<img src='/images/da2_word_cloud.png'>"
 
 collection: dataanalysis
 ---
@@ -31,7 +31,7 @@ add details here
 
 
 
-<img src='/images/da2_jobs_comp.png' style='width:75%;' alt='Description of the image'>
+<img src='/images/da2_jobs_comp.png'>
 
 
 ---
@@ -52,6 +52,6 @@ add details
 
 
 
-<img src='/images/da2_tools_roles.png' style='width:75%;' alt='Description of the image'>
+<img src='/images/da2_tools_roles.png'>
 
 
