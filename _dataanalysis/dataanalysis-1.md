@@ -50,7 +50,7 @@ add details
 
 
 
-<img src='/images/sales6.png'>
+<img src='/images/da1_pay_method.png'>
 
 
 
