@@ -41,7 +41,7 @@ add details - no image
 
 
 
-
+<img src='/images/da2_word_cloud.png' style='width:75%;' alt='Description of the image'>
 
 
 
