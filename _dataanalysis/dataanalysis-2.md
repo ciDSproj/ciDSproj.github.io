@@ -13,6 +13,8 @@ collection: dataanalysis
 - Calculated the minim and maxim average salary
 - Engineered features from the text of each job description to quantify the value companies put on specific tools, platforms, skills and data science roles
 - Created a word cloud highlighting the most frequently used words in job descriptions
+
+The project uses Python’s NumPy and Pandas libraries for data manipulation, Matplotlib and Seaborn for visualizations and Natural Language Toolkit for text analysis.
 <br/>
 [GitHub](https://github.com)
 
