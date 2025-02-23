@@ -8,19 +8,13 @@ excerpt: "In this project I analyze the dataset obtained by scraping the HTML da
 collection: dataanalysis
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+- Scraped over 1000 job descriptions from Indeed web pages using Python
+- Visualized the companies and the locations with the highest number of job listings
+- Calculated the minim and maxim average salary
+- Engineered features from the text of each job description to quantify the value companies put on specific tools, platforms, skills and data science roles
+- Created a word cloud highlighting the most frequently used words in job descriptions
 <br/>
 [GitHub](https://github.com)
-
-
-
----
-**Scraping data**
-
-###### How small is this?
-
-
-
 
 
 
@@ -53,5 +47,22 @@ add details
 
 
 <img src='/images/da2_tools_roles.png'>
+
+
+---
+**What is the count of word frequency in job descriptions?**
+
+add details here
+
+
+
+<img src='/images/da2_word_cloud.png'>
+
+
+---
+
+
+
+
 
 
