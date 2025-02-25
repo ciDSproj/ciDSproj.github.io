@@ -53,7 +53,7 @@ add details here
 **What is the average salary?**
 
 Calculating the average salary included checking the formatting of salary values then defining a function to format, calculate and split salary in minim and maxim values. 
-The results showed that the minim average salary is 115,887 a year and the maxim  average is 159,665 a year.
+The results showed that the **minim average** salary is **115,887** a year and the **maxim average** is **159,665** a year.
 
 
 
