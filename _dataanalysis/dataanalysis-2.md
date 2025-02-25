@@ -30,15 +30,6 @@ Notice that Microsoft has the highest number of jobs, followed by Amazon and Zil
 
 
 ---
-**What is the average salary?**
-
-Calculating the average salary included checking the formatting of salary values then defining a function to format, calculate and split salary in minim and maxim values. 
-
-The results showed that the minim average salary is 115,887 a year and the maxim  average is 159,665 a year.
-
-
-
----
 **What is the frequency of words for specific tools and platforms, skills, and roles?**
 
 add details
@@ -58,6 +49,11 @@ add details here
 <img src='/images/da2_word_cloud.png'>
 
 
+---
+**What is the average salary?**
+
+Calculating the average salary included checking the formatting of salary values then defining a function to format, calculate and split salary in minim and maxim values. 
+The results showed that the minim average salary is 115,887 a year and the maxim  average is 159,665 a year.
 
 
 
