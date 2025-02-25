@@ -21,7 +21,8 @@ collection: dataanalysis
 
 ---
 **Which are the companies with the highest number of job listings?**
->After grouping the job postings by the company, we visualize the results: Microsoft has the highest number of jobs, followed by Amazon and Zillow, then Facebook and Indeed. There are sixty-nine companies that posted only 1 job and 28 companies that listed 2 jobs. Most companies have between 1 and 10 jobs.
+
+Notice that Microsoft has the highest number of jobs, followed by Amazon and Zillow. There are sixty-nine companies that posted only 1 job and 28 companies that listed 2 jobs. Most companies have between 1 and 10 jobs.
 
 
 
