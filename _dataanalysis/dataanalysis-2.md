@@ -13,8 +13,8 @@ collection: dataanalysis
 - Calculated the minim and maxim average salary
 - Engineered features from the text of each job description to quantify the value companies put on specific tools, platforms, skills and data science roles
 - Created a word cloud highlighting the most frequently used words in job descriptions
-
 <br/>
+
 [GitHub](https://github.com)
 
 
