@@ -32,7 +32,7 @@ Notice that Microsoft has the highest number of jobs, followed by Amazon and Zil
 ---
 **What is the frequency of words for specific tools and platforms, skills, and roles?**
 
-add details
+Tableau is the top data analytics tool while Azure is the preferred cloud computing platform. The roles as data scientists are in more demand than data analysts. Other roles like data engineer, machine learning engineer or staff machine intelligence are less present in this scraped dataset. Most position types are for senior level, followed by intern and entry level.
 
 
 
