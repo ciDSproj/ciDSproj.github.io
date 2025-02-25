@@ -8,7 +8,7 @@ excerpt: "In this project I scraped data science job descriptions from Indeed we
 collection: dataanalysis
 ---
 
->- Scraped over 1000 job descriptions from Indeed web pages
+- Scraped over 1000 job descriptions from Indeed web pages
 - Visualized the companies and the locations with the highest number of job listings
 - Calculated the minim and maxim average salary
 - Engineered features from the text of each job description to quantify the value companies put on specific tools, platforms, skills and data science roles
@@ -22,7 +22,7 @@ collection: dataanalysis
 ---
 **Which are the companies with the highest number of job listings?**
 
-Notice that Microsoft has the highest number of jobs, followed by Amazon and Zillow. There are sixty-nine companies that posted only 1 job and 28 companies that listed 2 jobs. Most companies have between 1 and 10 jobs.
+Notice that Microsoft has the highest number of jobs, followed by Amazon and Zillow. There are 69 companies that posted only 1 job and 28 companies that listed 2 jobs. Most companies have between 1 and 10 jobs.
 
 
 
