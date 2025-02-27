@@ -54,7 +54,7 @@ A count of all words that occur in job descriptions and job titles highlight the
 **What is the average salary?**
 
 Calculating the average salary included checking the formatting of salary values then defining a function to format, calculate and split salary in minim and maxim values. 
-The results showed that the **minim average** salary is **115,887** a year and the **maxim average** is **159,665** a year.
+The results show that the **average salary** for a data scientist or data analyst role has a **minim** of **$115,887** a year and a **maxim** of **$159,665** a year.
 
 
 
