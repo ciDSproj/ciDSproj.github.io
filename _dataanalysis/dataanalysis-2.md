@@ -15,7 +15,7 @@ collection: dataanalysis
 - *Created a word cloud highlighting the most frequently used words in job descriptions*
 <br/>
 
-[GitHub](https://github.com)
+[GitHub](https://github.com/ciDSproj/scraping_indeed)
 
 
 
