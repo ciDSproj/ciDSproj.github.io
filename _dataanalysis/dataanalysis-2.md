@@ -8,7 +8,7 @@ excerpt: "In this project I scraped data science job descriptions from Indeed we
 collection: dataanalysis
 ---
 
-- *Scraped over 1000 job descriptions from Indeed web pages*
+- *Scraped over 1000 job descriptions from Indeed web pages using Python*
 - *Visualized the companies and the locations with the highest number of job listings*
 - *Calculated the minim and maxim average salary*
 - *Engineered features from the text of each job description to quantify the value companies put on specific tools, platforms, skills and data science roles*
