@@ -40,7 +40,7 @@ Tableau is the top data analytics tool while Azure is the preferred cloud comput
 
 
 ---
-**What is the count of word frequency in job descriptions?**
+**Which are the most frequent words in job descriptions?**
 
 A count of all words that occur in job descriptions and job titles highlight the importance of specific words. As Word Cloud shows, the most frequent word is **data**, followed by **machine learning**, **experience**, **engineering** and **customer**.
 
