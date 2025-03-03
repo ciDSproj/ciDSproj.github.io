@@ -21,7 +21,7 @@ add details here
 
 
 
-<img src='/images/da1_overall_sales.png'>
+<img src='/images/da1_monthly_sales.png'>
 
 
 ---
