@@ -1,13 +1,14 @@
 ---
 title: "Online Sales"
-excerpt: "The analysis covers retrieving data from a database, data manipulation, visualizations and answering the business questions.<br/>
+excerpt: "The project contains an analysis of the Online Sales dataset which provides an overview of global online sales transactions across different product categories in 2024. The analysis covers retrieving data from a database, data manipulation, visualizations and answering business questions.<br/>
 
 
 <img src='/images/da1_monthly_prod.png'>"
 collection: dataanalysis
 ---
 
-The project contains the analysis of the Online Sales Dataset which provides an overview of global online sales transactions across different product categories between January and August 2024.
+- *Explored the SQLite database and retrieved data*
+- 
 <br/>
 [GitHub](https://github.com)
 
