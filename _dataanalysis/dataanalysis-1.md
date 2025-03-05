@@ -48,7 +48,8 @@ The **highest sales** come from **Electronics**, followed by **Home Appliances**
 ---
 **Which product categories are most popular in each region?**
 
-add details
+From the **heatmap** we observe that the **highest sales volume** comes from **Electronics** in **North America**, followed by **Home Appliances** in **Europe** and
+**Sports** in **Asia**. Other popular products are **Clothing** in **Asia**, **Beauty Products** in **Europe** and **Books** in **North America**.
 
 
 
