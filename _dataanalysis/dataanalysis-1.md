@@ -38,7 +38,7 @@ The **monthly sales for each product category** show that **Electronics** sales 
 ---
 **Which product categories have the highest sales?**
 
-add details
+The **highest sales** come from **Electronics**, followed by **Home Appliances** and **Sports**, while **Clothing**, **Beauty Products**, and **Books** make up for **smaller proportions**.
 
 
 
