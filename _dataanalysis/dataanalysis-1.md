@@ -1,6 +1,6 @@
 ---
 title: "Online Sales"
-excerpt: "The project contains an analysis of the Online Sales dataset which provides an overview of global online sales transactions across different product categories in 2024. The analysis covers retrieving data from a database, data manipulation, visualizations and answering business questions.<br/>
+excerpt: "The project contains an analysis of the global online sales transactions across various products in 2024. I retrieved data from a database, processed it, and used visualizations for answering business questions.<br/>
 
 
 <img src='/images/da1_monthly_prod.png'>"
