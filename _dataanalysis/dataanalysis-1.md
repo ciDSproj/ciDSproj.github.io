@@ -7,8 +7,12 @@ excerpt: "The project contains an analysis of the global online sales transactio
 collection: dataanalysis
 ---
 
-- *Explored the SQLite database and retrieved data*
-- 
+- *Explored the SQLite database and retrieved data in a Pandas dataframe*
+- *Aggregated Sales by Date and Month to evaluate the overall and seasonal monthly trends*
+- *Created pivot table of monthly Sales by Product Category to explore the seasonal patterns of different product categories*
+- *Grouped Sales by Payment Methods to see the most popular payment method by region*
+- *Created pivot table of Sales by Region to find which are the most popular product categories in each region*
+
 <br/>
 [GitHub](https://github.com)
 
