@@ -29,6 +29,13 @@ The **monthly trend** shows a decline in sales in January, followed by a good in
 <img src='/images/da1_monthly_sales.png'>
 
 
+We observe that **Electronics** sales declined sharply from January to February, increased until they reached the peak in April, then decreased until August. **Home Appliances** sales grew steadily from January, achieved their highest value in March, then declined towards the end of the period. **Sports** sales reached a peak in February, then again in April, but declined towards August. The sales for **Clothing**, **Books** and **Beauty Products** remained almost constant for all the months.
+
+
+
+<img src='/images/da1_monthly_prod.png'>
+
+
 ---
 **Which product categories have the highest sales?**
 
