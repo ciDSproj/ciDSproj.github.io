@@ -18,7 +18,6 @@ collection: dataanalysis
 
 
 
-
 ---
 **What is the monthly sales?**
 
