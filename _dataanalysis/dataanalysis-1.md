@@ -22,7 +22,7 @@ collection: dataanalysis
 ---
 **What is the monthly sales?**
 
-The **overall sales trend** fluctuated over the entire time span from January to August 2024, reaching the highest point in April. The **monthly trend** shows a decline in sales in January, followed by a good increase between February and April. Then, it continues to decrease to the lowest point in July then start to pick up again in August.
+The **monthly trend** shows a decline in sales in January, followed by a good increase between February and April. Then, it continues to decrease to the lowest point in July then start to pick up again in August.
 
 
 
