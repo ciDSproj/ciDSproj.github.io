@@ -59,7 +59,7 @@ The heatmap shows that the highest sales volume comes from **Electronics** in **
 **What is the distribution of payment methods?**
 
 The highest revenue comes from using **Credit Cards** (50%), followed by PayPal(33.3%) and Debit Card (16.7%). 
-The most used payment method in North America is Credit Card, followed by Europe where is mostly used PayPal. Asia is the only region where are used two payment methods, Credit and Debit Cards.
+The most used payment method in **North America** is **Credit Card**, followed by **Europe** where is mostly used **PayPal**. **Asia** is the only region where are used two payment methods, **Credit and Debit Cards**.
 
 
 
