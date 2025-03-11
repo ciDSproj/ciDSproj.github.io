@@ -18,7 +18,7 @@ details
 
 
 
-
+<img src='/images/da3_score_prep.png'>
 
 
 
