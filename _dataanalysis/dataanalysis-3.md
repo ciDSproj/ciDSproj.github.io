@@ -27,6 +27,9 @@ Exploratory Data Analysis highlighted some factors that impact students’ abili
 <img src='/images/da3_score_prep.png'>
 
 
+The KDE plots above show that students who prepare for tests perform better than those who do not. Also, more study time (more than 10 hours per week) leads to higher overall grades.
+
+
 ---
 
 
