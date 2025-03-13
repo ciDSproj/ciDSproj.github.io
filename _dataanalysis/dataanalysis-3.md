@@ -20,11 +20,13 @@ The project contains data cleaning and preprocessing, visualization, and analysi
 ---
 **What factors or combination of factors affect student's test scores?**
 
-Exploratory Data Analysis highlighted some of the factors that influence students’ exam grades, like test preparation courses, weekly study hours, parental educational background, practicing sports regularly, gender and ethnic groups. 
+Exploratory Data Analysis highlighted some factors that impact students’ ability to excel academically: test preparation courses, weekly study hours, parental educational background, practicing sports regularly, gender and ethnic groups. 
 
 
 
 <img src='/images/da3_score_prep.png'>
 
+
+---
 
 
