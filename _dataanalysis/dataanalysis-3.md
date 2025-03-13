@@ -16,18 +16,19 @@ collection: portfolio
 
 
 ---
-**What factors or combination of factors affect student's test scores?**
+**What factors influence students’ test scores??**
 
-Exploratory Data Analysis highlighted some factors that impact students’ ability to excel academically: test preparation courses, weekly study hours, parental educational background, practicing sports regularly, gender and ethnic groups. 
+ 
+The KDE plots below show that students who prepare for tests perform better than those who do not. Also, more study time (more than 10 hours per week) leads to higher overall grades.
 
 
 
----
 
 <img src='/images/da3_score_prep.png'>
 
 
-The KDE plots above show that students who prepare for tests perform better than those who do not. Also, more study time (more than 10 hours per week) leads to higher overall grades.
+
+Exploratory Data Analysis highlighted some factors that impact students’ ability to excel academically: test preparation courses, weekly study hours, parental educational background, practicing sports regularly, gender and ethnic groups.
 
 
 ---
