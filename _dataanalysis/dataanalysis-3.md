@@ -4,8 +4,6 @@ excerpt: "The analysis focuses on the influence of a variety of personal, socio-
 collection: portfolio
 ---
 
-The project contains data cleaning and preprocessing, visualization, and analysis of the Students Exam Scores dataset from [Kaggle](https://www.kaggle.com/datasets/desalegngeb/students-exam-scores).
-
 
 - *Cleaned and preprocessed data (inputting missing values in numerical and categorical columns, creating new features)*
 - *Gained insights from descriptive statistics and variables distributions* 
