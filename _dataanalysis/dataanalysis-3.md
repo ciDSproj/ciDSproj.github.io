@@ -1,6 +1,6 @@
 ---
 title: "Students Exam Scores"
-excerpt: "The analysis focuses on the influence of a variety of personal and socio-economic factors on student’s exam scores.<br/>"
+excerpt: "The analysis focuses on the influence of a variety of personal, socio-economic, and cultural factors on students’ academic performance.<br/>"
 collection: portfolio
 ---
 
