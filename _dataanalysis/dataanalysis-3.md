@@ -23,7 +23,7 @@ collection: portfolio
 
  
 
-Exploratory Data Analysis highlighted some factors that impact students’ ability to excel academically: test preparation courses, weekly study hours, parental educational background, practicing sports regularly, gender and ethnic groups.
+Exploratory Data Analysis highlighted some factors that impact students’ ability to excel academically: **test preparation** courses, **weekly study hours**, **parent education**, **practicing sports** regularly, **gender** and **ethnic groups**.
 
 
 ---
