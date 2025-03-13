@@ -1,13 +1,12 @@
 ---
 title: "Students Exam Scores"
-excerpt: "The analysis focuses on the influence of a variety of personal, socio-economic, and cultural factors on students’ academic performance.<br/>"
+excerpt: "The analysis focuses on the influence of a variety of personal, socio-economic, and cultural factors on students’ academic performance.<br/>
 
 
-<img src='/images/da3_score_prep.png'>
+<img src='/images/da3_score_prep.png'>"
 
 collection: portfolio
 ---
-
 
 - *Cleaned and preprocessed data (inputting missing values in numerical and categorical columns, creating new features)*
 - *Gained insights from descriptive statistics and variables distributions* 
@@ -23,7 +22,7 @@ collection: portfolio
 **What factors influence students’ test scores?**
 
  
- 
+
 Exploratory Data Analysis highlighted some factors that impact students’ ability to excel academically: test preparation courses, weekly study hours, parental educational background, practicing sports regularly, gender and ethnic groups.
 
 
