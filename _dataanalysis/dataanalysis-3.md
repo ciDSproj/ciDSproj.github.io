@@ -8,10 +8,10 @@ excerpt: "The analysis focuses on the influence of a variety of personal, socio-
 collection: portfolio
 ---
 
-- *Cleaned and preprocessed data (inputting missing values in numerical and categorical columns, creating new features)*
+- *Cleaned and preprocessed data*
 - *Gained insights from descriptive statistics and variables distributions* 
 - *Visualized the overall exam scores by various study habits and social factors* 
-- *Evaluated if other personal factors, like the number of siblings, have any effect on exam grades*
+- *Evaluated if other personal factors have any effect on exam grades*
 <br/>
 
 [GitHub](https://github.com/ciDSproj/students_scores)
