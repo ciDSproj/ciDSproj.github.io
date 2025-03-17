@@ -26,6 +26,13 @@ collection: portfolio
 Exploratory Data Analysis highlighted some factors that impact students’ ability to excel academically: **test preparation** courses, **weekly study hours**, **parent education**, **practicing sports** regularly, **gender** and **ethnic groups**.
 
 
+The plot below shows the influence of parental education. We observe that the highest number of parents have some college education, and the lowest number have a master's degree. Students with parents that have a master’s degree education level have the highest scores.
+
+
+
+<img src='/images/da3_score_parent.png'>
+
+
 ---
 
 
