@@ -33,6 +33,12 @@ The plot below shows the influence of parental education. We observe that the hi
 <img src='/images/da3_score_parent.png'>
 
 
+Students who prepare for tests perform better than those who do not. More study time (more than 10 hours per week) leads to higher overall grades.
+
+
+
+<img src='/images/da3_score_prep.png'>
+
 ---
 
 
