@@ -1,9 +1,6 @@
 ---
 title: "Loan Classification"
-excerpt: "The analysis covers data exploration and preprocessing followed by building a classifier to predict whether the borrower paid back their loan in full.<br/>
-
-
-<img src='/images/500x300.png'>"
+excerpt: "The analysis covers data exploration and preprocessing followed by building a classifier to predict whether the borrower paid back their loan in full.<br/>"
 
 collection: machinelearning
 ---
