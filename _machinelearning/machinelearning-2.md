@@ -1,6 +1,10 @@
 ---
 title: "Health Insurance Costs Prediction"
-excerpt: "Short description of portfolio item number 2<br/><img src='/images/500x300.png'>"
+excerpt: "This project contains data visualization, feature engineering and building a linear regression model to predict insurance costs.<br/>
+
+
+<img src='/images/500x300.png'>"
+
 collection: machinelearning
 ---
 
