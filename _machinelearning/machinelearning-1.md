@@ -1,6 +1,10 @@
 ---
 title: "Loan Classification"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "The analysis covers data exploration and preprocessing followed by building a classifier to predict whether the borrower paid back their loan in full.<br/>
+
+
+<img src='/images/500x300.png'>"
+
 collection: machinelearning
 ---
 
