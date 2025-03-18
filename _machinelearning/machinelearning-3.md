@@ -1,6 +1,6 @@
 ---
 title: "CO2 Time Series Forecasts"
-excerpt: "This project covers data preparation, data exploration using visualization and STL decomposition and building a seasonal ARIMA model used for producing one-step ahead, dynamic and future forecasts.<br/>
+excerpt: "In this project I built a seasonal ARIMA model for producing one-step ahead, dynamic and future forecasts.<br/>
 
 
 <img src='/images/500x300.png'>"
