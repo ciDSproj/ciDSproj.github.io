@@ -9,9 +9,9 @@ collection: dataanalysis
 
 - *Explored the SQLite database and retrieved data in a Pandas dataframe*
 - *Aggregated Sales by Date and Month to evaluate the overall and seasonal monthly trends*
-- *Created pivot table of monthly Sales by Product Category to explore the seasonal patterns of different products*
+- *Visualized the pivot table of monthly Sales by Product Category and explored the seasonal patterns of various products*
 - *Grouped Sales by Payment Methods to see the most popular payment method by region*
-- *Created pivot table of Sales by Region to find which are the most popular product categories in each region*
+- *Visualized the heatmap of Sales by Region to find the most popular product categories in each region*
 <br/>
 
 [GitHub](https://github.com/ciDSproj/online_sales)
