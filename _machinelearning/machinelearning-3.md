@@ -4,6 +4,7 @@ excerpt: "This project covers data preparation, data exploration using visualiza
 
 
 <img src='/images/500x300.png'>"
+
 collection: machinelearning
 ---
 
