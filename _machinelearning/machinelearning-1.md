@@ -5,7 +5,6 @@ excerpt: "The goal of this project was to build a classifier to predict whether 
 collection: machinelearning
 ---
 <br/>
-
 [GitHub](https://github.com/ciDSproj/loan_classification)
 
 
