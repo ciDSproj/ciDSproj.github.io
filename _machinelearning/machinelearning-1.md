@@ -7,13 +7,12 @@ collection: machinelearning
 <br/>
 [GitHub](https://github.com/ciDSproj/loan_classification)
 
-
 ---
 
-Data exploration highlighted the relationships between numerical variables across distinct categories in loan purpose. Using visualizations, I could observe if loans with the same purpose have similar qualities not shared by loans with differing purposes.
+Data analysis highlighted the relationships between numerical variables across distinct categories in loan purpose. Using visualizations, I could observe if loans with the same purpose have similar qualities not shared by loans with differing purposes.
 
 
-In training and evaluating the classification models, I accounted for the class imbalance in the target variable  that has fewer examples of loans not fully paid. 
+In training and evaluating the classification models, I accounted for the **class imbalance** in the target variable  that has fewer examples of loans not fully paid. 
 
 
 
@@ -25,4 +24,4 @@ In training and evaluating the classification models, I accounted for the class 
 
 
 
-I also considered the importance of accurately predicting whether a loan will not be paid back rather than if a loan is paid, as failing to detect loan defaulters can lead to significant financial losses for the institution. The precision-recall curve allows us to visualize these metrics at various threshold levels and observe the tradeoff between the two.
+I also considered the importance of accurately **predicting whether a loan will not be paid back** rather than if a loan is paid, as failing to detect loan defaulters can lead to significant financial losses for the institution. The precision-recall curve allows us to visualize these metrics at various threshold levels and observe the tradeoff between the two.
