@@ -17,6 +17,12 @@ In training and evaluating the classification models, I accounted for the class 
 
 
 
+<img src='/images/ml1_cm.png'>
+
+
+
+<img src='/images/ml1_cm_resample.png'>
+
 
 
 I also considered the importance of accurately predicting whether a loan will not be paid back rather than if a loan is paid, as failing to detect loan defaulters can lead to significant financial losses for the institution. The precision-recall curve allows us to visualize these metrics at various threshold levels and observe the tradeoff between the two.
