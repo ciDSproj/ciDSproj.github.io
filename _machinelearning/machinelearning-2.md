@@ -4,9 +4,19 @@ excerpt: "This project contains data visualization, feature engineering and buil
 
 collection: machinelearning
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
 <br/>
-
 [GitHub](https://github.com/ciDSproj/insurance_prediction)
 
+---
+
+
+Data visualization allowed exploring the relationships between health insurance costs and various factors like age, health status (body mass index, smoking), gender, family size and region. 
+
+
+
+
+
+
+
+
+Based on the findings from data exploration, I built several regression models. to predict the insurance costs. The evaluation metrics allowed comparing their fit.
