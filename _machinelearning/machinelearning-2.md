@@ -1,6 +1,6 @@
 ---
 title: "Health Insurance Costs Prediction"
-excerpt: "This project contains data visualization, feature engineering and building a linear regression model for predicting insurance costs using medical personal expenses billed by a health insurance company..<br/>"
+excerpt: "This project contains data visualization, feature engineering and building a linear regression model for predicting insurance costs using medical personal expenses billed by a health insurance company.<br/>"
 
 collection: machinelearning
 ---
