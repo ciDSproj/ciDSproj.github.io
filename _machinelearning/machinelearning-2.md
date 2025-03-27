@@ -22,4 +22,4 @@ Data visualization allowed exploring the relationships between health insurance 
 
 
 
-Based on the findings from data exploration, I built several regression models to predict the insurance costs. The evaluation metrics allowed comparing their fit.
+Based on the findings from data exploration, I built several regression models to predict the insurance costs: Linear Regression, Random Forest, and Polynomial Regression. For each model it was determined the intercept and the coefficients, and the evaluation metrics which allowed comparing their fit.
