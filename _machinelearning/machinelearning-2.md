@@ -14,8 +14,11 @@ Data visualization allowed exploring the relationships between health insurance 
 
 
 
+<img src='/images/ml2_charges_bmi.png'>
 
 
+
+<img src='/images/ml2_charges_smoker.png'>
 
 
 
