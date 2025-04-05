@@ -1,6 +1,6 @@
 ---
-title: "CO2 Time Series Forecasts"
-excerpt: "In this project I built a seasonal ARIMA model for producing one-step ahead, dynamic and future forecasts.<br/>"
+title: "Wine Classification"
+excerpt: "In this project I built classification models for predicting wine classes applying various methods of feature selection for dimensionality reduction..<br/>"
 
 collection: machinelearning
 ---

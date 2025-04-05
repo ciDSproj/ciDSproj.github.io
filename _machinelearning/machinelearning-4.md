@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 4"
-excerpt: "Short description of portfolio item number 2<br/><img src='/images/500x300.png'>"
+title: "CO2 Time Series Forecasts"
+excerpt: "In this project I built a seasonal ARIMA model for producing one-step ahead, dynamic and future forecasts.<br/><img src='/images/500x300.png'>"
 collection: machinelearning
 ---
 
