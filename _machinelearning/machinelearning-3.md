@@ -1,12 +1,22 @@
 ---
 title: "Wine Classification"
-excerpt: "In this project I built classification models for predicting wine classes applying various methods of feature selection for dimensionality reduction..<br/>"
+excerpt: "In this project I built classification models for predicting wine classes applying various methods of feature selection for dimensionality reduction.<br/>"
 
 collection: machinelearning
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
 <br/>
-
 [GitHub](https://github.com/ciDSproj/wine_classification)
 
+---
+
+
+Dimensionality reduction via feature selection allows reducing the complexity of the model and avoiding overfitting. Via feature selection we select a subset of the original features, or we can apply regularization techniques. 
+
+
+
+Below are some plots showing the top features selected by different techniques.
+
+
+
+
+Here we can see the relative importance of the features in the wine dataset using a random forest model.
