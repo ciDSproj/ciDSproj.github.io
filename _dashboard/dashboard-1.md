@@ -1,5 +1,5 @@
 ---
-title: "Dashboard item number 1"
+title: "Power BI Sales Report"
 excerpt: "Short description of dashboard item number 1<br/><img src='/images/500x300.png'>"
 collection: dashboard
 ---
