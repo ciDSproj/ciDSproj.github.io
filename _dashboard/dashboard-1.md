@@ -1,9 +1,15 @@
 ---
 title: "Power BI Sales Report"
-excerpt: "The project covers creating Power BI Dashboard and Reports for analyzing sales performance and distribution across products and regions for an e-commerce dataset.<br/>"
+excerpt: "The project covers creating Power BI Dashboard and Reports for analyzing sales performance and distribution across products and regions for an e-commerce dataset.<br/>
+
+
+
+
+<img src='/images/500x300.png'>"
 
 collection: dashboard
 ---
+
 <br/>
 [GitHub](https://github.com/ciDSproj/dashboard_ecommSales)
 
