@@ -4,8 +4,18 @@ excerpt: "The project covers creating Power BI Dashboard and Reports for analyzi
 
 collection: dashboard
 ---
-
-This is an item in your dashboard. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
 <br/>
-[GitHub](https://github.com)
+[GitHub](https://github.com/ciDSproj/dashboard_ecommSales)
 
+---
+
+
+The dashboard below is an example focusing on sales trends, performance of the products and regions,  and discovering the most profitable segment customers. It offers an easy way to view the most important KPI’s and results at a glance.
+
+
+
+
+
+
+
+Using this dashboard, we can monitor results and progress. By immediately having the right information available, correct decisions can be made.
