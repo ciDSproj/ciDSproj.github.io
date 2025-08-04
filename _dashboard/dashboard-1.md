@@ -10,6 +10,11 @@ The dashboard below is an example focusing on sales trends, performance of the p
 
 <img src='/images/Dashboard.png'>"
 
+
+
+Using this dashboard, we can monitor results and progress. By immediately having the right information available, correct decisions can be made.
+
+
 collection: dashboard
 ---
 
@@ -24,7 +29,3 @@ The Dashboard was created using visuals from Sales, Products and Customer report
 
 
 <img src='/images/Dashboard.png'>
-
-
-
-Using this dashboard, we can monitor results and progress. By immediately having the right information available, correct decisions can be made.
