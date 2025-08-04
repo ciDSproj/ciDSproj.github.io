@@ -1,16 +1,9 @@
 ---
 title: "Power BI Sales Report"
-excerpt: "The project covers creating Power BI Dashboard and Reports for analyzing sales performance and distribution across products and regions for an e-commerce dataset.
-
-
-The dashboard below is an example focusing on sales trends, performance of the products and regions, and discovering the most profitable segment customers. It offers an easy way to view the most important KPI’s and results at a glance.<br/>
-
-
+excerpt: "The project covers creating Power BI Dashboard and Reports for analyzing sales performance and distribution across products and regions for an e-commerce dataset. The dashboard below is an example focusing on sales trends, performance of the products and regions, and discovering the most profitable segment customers. It offers an easy way to view the most important KPI’s and results at a glance.<br/>
 
 
 <img src='/images/Dashboard.png'>"
-
-
 
 collection: dashboard
 ---
