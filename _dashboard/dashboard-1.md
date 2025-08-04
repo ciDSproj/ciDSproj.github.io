@@ -22,4 +22,4 @@ The Dashboard was created using visuals from Sales, Products and Customer report
 
 
 
-Using this dashboard, we can monitor results and progress. By immediately having the right information available, correct decisions can be made.
+Using the dashboard and the reports, we can monitor results and progress. By immediately having the right information available, correct decisions can be made.
