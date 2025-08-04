@@ -1,6 +1,7 @@
 ---
 title: "Power BI Sales Report"
-excerpt: "Short description of dashboard item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "The project covers creating Power BI Dashboard and Reports for analyzing sales performance and distribution across products and regions for an e-commerce dataset.<br/>"
+
 collection: dashboard
 ---
 
