@@ -20,7 +20,7 @@ The dashboard below is an example focusing on sales trends, performance of the p
 
 
 
-
+<img src='/images/Dashboard.png'>
 
 
 
