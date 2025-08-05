@@ -18,7 +18,7 @@ The Dashboard was created using visuals from Sales, Products and Customer report
 
 
 
-<img src='/images/Dashboard.png'>
+<img src='/images/Sales Report.png'>
 
 
 
