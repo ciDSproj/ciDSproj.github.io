@@ -14,7 +14,12 @@ collection: dashboard
 ---
 
 
-The Dashboard was created using visuals from Sales, Products and Customer reports, which show the most important trends and figures. 
+The data visualizations for Sales, Products and Customer Reports show the most important trends and figures:
+
+- *How was the sales trend over the months?*
+- *What are the most frequently purchased products?*
+- *How was the sales amount by country?*
+- *What are the most profitable segment customers?*
 
 
 
