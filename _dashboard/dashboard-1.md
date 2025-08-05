@@ -17,7 +17,7 @@ collection: dashboard
 ---
 
 
-The data visualizations for Sales, Products and Customer Reports show the most important trends and figures:
+The visualizations for the dashboard and the Sales, Product and Customer reports show important trends and figures, useful for answering some questions:
 
 - *How was the sales trend over the months?*
 - *What are the most frequently purchased products?*
