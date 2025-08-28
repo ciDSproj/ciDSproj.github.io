@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I'm an Entry Level Data Scientist passionate about transforming raw data into actionable insights. I specialize in exploratory analysis, predictive modeling, and interactive dashboards. I use Python programming, statistical analysis, and machine learning for my data projects and Power BI for visual storytelling.
+I'm an Entry Level Data Scientist passionate about transforming raw data into actionable insights. I focus on exploratory analysis, predictive modeling, and interactive dashboards. I use Python programming, statistical analysis, and machine learning for my data projects and Power BI for visual storytelling.
 
 I’ve recently completed several hands-on projects that include: 
 - Analyzing complex datasets to uncover trends and patterns
