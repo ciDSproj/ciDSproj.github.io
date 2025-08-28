@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Analyzing and visualizing data to make better and informed business decisions. Get more value from data with prediction models and machine learning techniques.
+*Turning Data into Insightful Decisions*
 
 Some more text here
