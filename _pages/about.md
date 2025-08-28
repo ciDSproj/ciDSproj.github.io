@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+
 *Turning Data into Insightful Decisions*
 
-Some more text here
+
+# About
