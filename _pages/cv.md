@@ -34,7 +34,7 @@ Work experience
   
 Skills
 ======
-* Skill 1
+* **Programming**: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, SciPy, TensorFlow, Keras)
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
