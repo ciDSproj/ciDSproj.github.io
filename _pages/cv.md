@@ -35,7 +35,12 @@ Work experience
 Skills
 ======
 * **Programming**: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, SciPy, TensorFlow, Keras)
-* Skill 2
+* **Statistics**: Hypothesis Testing, Probability, Descriptive & Inferential Stats
+* **Machine Learning**: Regression, Classification, Clustering, Model Evaluation
+* **Data Wrangling**: Python (Pandas), SQLite
+* **Visualization**: Matplotlib, Seaborn, Power BI
+* **Tools**: Jupyter Notebook, Git, Excel, SQL (basic)
+* **Communication**: Dashboard storytelling, Report writing
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
