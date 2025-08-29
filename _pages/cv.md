@@ -40,7 +40,7 @@ Skills
 * **Data Wrangling**: Python (Pandas), SQLite
 * **Visualization**: Matplotlib, Seaborn, Power BI
 * **Tools**: Jupyter Notebook, Git, Excel, SQL (basic)
-* **Communication**: Dashboard storytelling, Report writing
+* **Communication**: Dashboard storytelling, report writing
 
 Publications
 ======
