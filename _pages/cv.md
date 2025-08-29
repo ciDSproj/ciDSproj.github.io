@@ -41,10 +41,6 @@ Skills
 * **Visualization**: Matplotlib, Seaborn, Power BI
 * **Tools**: Jupyter Notebook, Git, Excel, SQL (basic)
 * **Communication**: Dashboard storytelling, Report writing
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
