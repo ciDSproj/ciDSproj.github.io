@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* [University of Washington, Certificate in Data Science, 2021](https://www.linkedin.com/in/catalina-ifrim-b66a1416a/details/education/)
+* edX Microsoft Professional Program Certificate, Data Science, 2019
+* M.S. in Building Systems Engineering (HVAC), [Faculty of Civil Engineering and Building Services](https://ci.tuiasi.ro/?lang=en), [Gheorghe Asachi Technical University of Iasi](https://www.tuiasi.ro/?lang=en), Romania
 
 Work experience
 ======
