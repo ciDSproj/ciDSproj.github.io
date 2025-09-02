@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* [University of Washington, Certificate in Data Science](https://www.linkedin.com/in/catalina-ifrim-b66a1416a/details/education/), 2021
-* edX Microsoft Professional Program Certificate, Data Science, 2019
+* [Certificate in Data Science - UW Professional & Continuing Education](https://www.pce.uw.edu/certificates/data-science), 2021
+* edX Microsoft Professional Program for Data Science Certificate, 2019
 * M.S. in [Civil Engineering and Building Services](https://ci.tuiasi.ro/?lang=en) (HVAC), [Gheorghe Asachi Technical University of Iasi](https://www.tuiasi.ro/?lang=en), Romania
 
 Work experience
