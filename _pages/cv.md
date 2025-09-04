@@ -33,3 +33,7 @@ Featured Projects
 * Project 2
 * Project 3
 * Project 4
+
+Work Experience
+======
+* Software Test Engineer, Customer Support and Training
