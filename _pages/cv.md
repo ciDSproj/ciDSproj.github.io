@@ -17,20 +17,26 @@ Education
 * edX Microsoft Professional Program for Data Science Certificate, 2019
 * M.S. in [Civil Engineering and Building Services](https://ci.tuiasi.ro/?lang=en) (HVAC), [Gheorghe Asachi Technical University of Iasi](https://www.tuiasi.ro/?lang=en), Romania
 
+Skills
+======
+* Programming
+  * Python (Pandas, NumPy, Matplotlib, Seaborn, Statsmodels, Scikit-learn, SciPy, TensorFlow, Keras)
+* Statistics
+  * Hypothesis Testing, Probability, Descriptive & Inferential Stats
+* Machine Learning
+  * Regression, Classification, Clustering, Model Evaluation
+* Data Wrangling
+  * Python (Pandas), SQLite
+* Visualization
+  * Matplotlib, Seaborn, Power BI
+* Tools
+  * Jupyter Notebook, Git, Excel, SQL (basic)
+* Communication
+  * Dashboard storytelling, report writing
+
 Featured Projects
 ======
 * Project 1
 * Project 2
 * Project 3
 * Project 4
-
-Skills
-======
-* **Programming**: Python (Pandas, NumPy, Matplotlib, Seaborn, Statsmodels, Scikit-learn, SciPy, TensorFlow, Keras)
-* **Statistics**: Hypothesis Testing, Probability, Descriptive & Inferential Stats
-* **Machine Learning**: Regression, Classification, Clustering, Model Evaluation
-* **Data Wrangling**: Python (Pandas), SQLite
-* **Visualization**: Matplotlib, Seaborn, Power BI
-* **Tools**: Jupyter Notebook, Git, Excel, SQL (basic)
-* **Communication**: Dashboard storytelling, report writing
-
