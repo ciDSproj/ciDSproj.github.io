@@ -21,7 +21,7 @@ Skills
 ======
 * Programming: Python (Pandas, NumPy, Matplotlib, Seaborn, Statsmodels, Scikit-learn, SciPy, TensorFlow, Keras)
 * Statistics: Hypothesis Testing, Probability, Descriptive & Inferential Stats
-* Machine Learning: Regression, Classification, Clustering, Model Evaluation, Model Performance Tuning
+* Machine Learning: Regression, Classification, Clustering, Model Evaluation
 * Data Wrangling: Python (Pandas), SQLite
 * Visualization: Matplotlib, Seaborn, Power BI
 * Tools: Jupyter Notebook, Git, Excel, SQL (basic)
