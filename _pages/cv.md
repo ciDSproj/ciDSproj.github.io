@@ -29,7 +29,7 @@ Skills
 
 Featured Projects
 ======
-1. **Credit Risk Analysis**
+1. **Credit Risk Analysis**<br/>
 Improved classification model accuracy by 18%, increasing performance from 65% to 77%, and analyzed the trade-off between accuracy and F1 score for predicting the minority class.
 2. **Health Insurance Prediction**
 Developed a predictive model that improved insurance forecast accuracy by 33%, significantly outperforming previous forecasting methods and enabling more accurate insurance planning.
