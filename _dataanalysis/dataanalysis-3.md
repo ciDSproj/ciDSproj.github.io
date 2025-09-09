@@ -1,5 +1,5 @@
 ---
-title: "Students Exam Scores"
+title: "Students Performance EDA and Visualization"
 excerpt: "This project contains data cleaning and preprocessing, followed by an analysis focused on the influence of a variety of personal, socio-economic, and cultural factors on students’ academic performance.<br/>
 
 
