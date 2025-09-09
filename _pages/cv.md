@@ -17,16 +17,6 @@ Education
 * edX Microsoft Professional Program for Data Science Certificate, 2019
 * M.S. in [Civil Engineering and Building Services](https://ci.tuiasi.ro/?lang=en) (HVAC), [Gheorghe Asachi Technical University of Iasi](https://www.tuiasi.ro/?lang=en), Romania
 
-Skills
-======
-* Programming: Python (Pandas, NumPy, Matplotlib, Seaborn, Statsmodels, Scikit-learn, SciPy, TensorFlow, Keras)
-* Statistics: Hypothesis Testing, Probability, Descriptive & Inferential Stats
-* Machine Learning: Regression, Classification, Clustering, Model Evaluation
-* Data Wrangling: Python (Pandas), SQLite
-* Visualization: Matplotlib, Seaborn, Power BI
-* Tools: Jupyter Notebook, Git, Excel, SQL (basic)
-* Communication: Dashboard storytelling, report writing
-
 Featured Projects
 ======
 1. **Credit Risk Analysis**<br/>
@@ -41,6 +31,16 @@ Scraped job postings, streamlined and analyzed text (Python, NLTK), engineered f
 Designed an interactive Power BI report to track KPIs across products and regions identifying most profitable segment customers.
 6. **CO2 Forecasting with Time Series**<br/>
 Used a seasonal ARIMA model to produce one-step ahead, dynamic, and future forecasts for CO2 atmospheric concentrations. Visualized trends and seasonality using Python. 
+
+Skills
+======
+* **Programming**: Python (Pandas, NumPy, Matplotlib, Seaborn, Statsmodels, Scikit-learn, SciPy, TensorFlow, Keras)
+* **Statistics**: Hypothesis Testing, Probability, Descriptive & Inferential Stats
+* **Machine Learning**: Regression, Classification, Clustering, Model Evaluation
+* **Data Wrangling**: Python (Pandas), SQLite
+* **Visualization**: Matplotlib, Seaborn, Power BI
+* **Tools**: Jupyter Notebook, Git, Excel, SQL (basic)
+* **Communication**: Dashboard storytelling, report writing
 
 Work Experience
 ======
