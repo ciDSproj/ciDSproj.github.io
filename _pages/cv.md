@@ -42,6 +42,6 @@ Skills
 * **Tools**: Jupyter Notebook, Git, Excel, SQL (basic)
 * **Communication**: Dashboard storytelling, report writing
 
-Work Experience
+Experience
 ======
-* Software Test Engineer, Customer Support and Training
+* Software Test Engineer, Extensive experience in customer support and training, ability to communicate insights clearly to both technical and non-technical audiences
