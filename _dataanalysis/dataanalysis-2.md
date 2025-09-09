@@ -1,5 +1,5 @@
 ---
-title: "Indeed Jobs Web Scraping and Analysis"
+title: "Web Scraping and Text Analysis"
 excerpt: "In this project I scraped data science job descriptions from Indeed website. Asking the right questions and analyzing the scraped data allowed finding relevant insights. <br/>
 
 
