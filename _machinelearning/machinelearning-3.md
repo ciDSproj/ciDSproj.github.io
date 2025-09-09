@@ -1,5 +1,5 @@
 ---
-title: "Wine Classification"
+title: "Feature Selection for Wine Classification"
 excerpt: "In this project I built classification models for predicting wine classes applying various methods of feature selection for dimensionality reduction.<br/>"
 
 collection: machinelearning
