@@ -31,15 +31,15 @@ Featured Projects
 ======
 1. **Credit Risk Analysis**<br/>
 Improved classification model accuracy by 18%, increasing performance from 65% to 77%, and analyzed the trade-off between accuracy and F1 score for predicting the minority class.
-2. **Health Insurance Prediction**
+2. **Health Insurance Prediction**<br/>
 Developed a predictive model that improved insurance forecast accuracy by 33%, significantly outperforming previous forecasting methods and enabling more accurate insurance planning.
-3. **Online Sales Product Analysis**
+3. **Online Sales Product Analysis**<br/>
 Used SQLite and Python to retrieve data from a database, explore and analyze seasonal sales trends by region and payment distribution.
-4. **Web Scraping and Text Analysis**
+4. **Web Scraping and Text Analysis**<br/>
 Scraped job postings, streamlined and analyzed text (Python, NLTK), engineered features to quantify the average salary, the tools and platforms valued by companies.
-5. **Ecommerce Performance Dashboard**
+5. **Ecommerce Performance Dashboard**<br/>
 Designed an interactive Power BI report to track KPIs across products and regions identifying most profitable segment customers.
-6. **CO2 Forecasting with Time Series**
+6. **CO2 Forecasting with Time Series**<br/>
 Used a seasonal ARIMA model to produce one-step ahead, dynamic, and future forecasts for CO2 atmospheric concentrations. Visualized trends and seasonality using Python. 
 
 Work Experience
