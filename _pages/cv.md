@@ -25,10 +25,10 @@ Improved classification model accuracy by 18%, increasing performance from 65% t
 Developed a predictive model that improved insurance forecast accuracy by 33%, significantly outperforming previous forecasting methods and enabling more accurate insurance planning.
 3. **Online Sales Product Analysis**<br/>
 Used SQLite and Python to retrieve data from a database, explore and analyze seasonal sales trends by region and payment distribution.
-4. **Web Scraping and Text Analysis**<br/>
-Scraped job postings, streamlined and analyzed text (Python, NLTK), engineered features to quantify the average salary, the tools and platforms valued by companies.
-5. **CO2 Forecasting with Time Series**<br/>
+4. **CO2 Forecasting with Time Series**<br/>
 Used a seasonal ARIMA model to produce one-step ahead, dynamic, and future forecasts for CO2 atmospheric concentrations. Visualized trends and seasonality using Python. 
+5. **Web Scraping and Text Analysis**<br/>
+Scraped job postings, streamlined and analyzed text (Python, NLTK), engineered features to quantify the average salary, the tools and platforms valued by companies.
 6. **Ecommerce Performance Dashboard**<br/>
 Designed an interactive Power BI report to track KPIs across products and regions identifying most profitable segment customers.
 
