@@ -1,6 +1,6 @@
 ---
 title: "CO2 Forecasting with Time Series"
-excerpt: "In this project I built a seasonal ARIMA model for producing one-step ahead, dynamic and future forecasts for CO2 atmospheric concentrations.<br/>"
+excerpt: "In this project I built a seasonal ARIMA model to produce one-step ahead, dynamic and future forecasts for CO2 atmospheric concentrations.<br/>"
 
 collection: machinelearning
 ---
