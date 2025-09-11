@@ -1,6 +1,6 @@
 ---
 title: "Feature Selection for Wine Classification"
-excerpt: "Built several classification models for predicting wine classes using a subset of features obtained by applying various methods of feature selection..<br/>"
+excerpt: "Built several classification models for predicting wine classes using a subset of features obtained by applying various methods of feature selection.<br/>"
 
 collection: machinelearning
 ---
