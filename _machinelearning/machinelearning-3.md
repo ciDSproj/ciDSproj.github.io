@@ -16,4 +16,7 @@ This analysis focuses on CO2 atmospheric concentrations dataset. It covers data 
 Using grid search were identified the best parameters for building a seasonal ARIMA model. The model  was used for producing one-step ahead, dynamic, and future forecasts.
 
 
+<img src='/images/ml4_future_forecasts.png'>
 
+
+The future forecasts indicate that the CO2 time series is expected to continue increasing.
