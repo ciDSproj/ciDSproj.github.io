@@ -28,7 +28,7 @@ author:
   location         : "Washington State"
   employer         : # "Company"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : #"none@example.org" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "Username"
+  linkedin         : "http://www.linkedin.com/in/catalina-ifrim-b66a1416a"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
