@@ -40,7 +40,9 @@ Skills
 * **Data Wrangling**: Python (Pandas), SQLite
 * **Visualization**: Matplotlib, Seaborn, Power BI
 * **Tools**: Jupyter Notebook, Git, Excel, SQL (basic)
-* **Communication**: Dashboard storytelling, report writing
+* **Communication**: 
+  * Dashboard storytelling, report writing
+  * Ability to make complex information accessible and visually compelling and to communicate technical insights clearly to both technical and non-technical audiences
 
 Relevant Work Experience
 ======
