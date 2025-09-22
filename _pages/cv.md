@@ -42,8 +42,14 @@ Skills
 * **Tools**: Jupyter Notebook, Git, Excel, SQL (basic)
 * **Communication**: 
   * Dashboard storytelling, report writing
-  * Ability to make complex information accessible and visually compelling and to communicate technical insights clearly to both technical and non-technical audiences
+  * Ability to make complex information accessible and visually compelling and communicate technical insights clearly to both technical and non-technical audiences
 
-Relevant Work Experience
+Work Experience
 ======
-* Software Test Engineer, Extensive experience in customer support and training, ability to communicate insights clearly to both technical and non-technical audiences
+March 2008 – October 2018: Software Test/Support Engineer, [Formotus, Inc.](https://www.softwareadvice.com/home-inspections/formotus-profile)
+* Responsible for in-depth analysis of critical user issues, resolving over 25% of support tickets on first contact, enhancing customer satisfaction.
+* Collaborated with the product development team to identify and resolve technical issues, resulting in a 30% reduction in response time for critical problems.
+* Worked with cross-functional teams to identify and implement process improvements, resulting in a 10% increase in software release and rollout.
+* Developed and delivered training programs for potential clients, resulting in a 15% increase in enrolling new customers.
+* Designed, tested, and deployed mobile forms for 70% of the customers.
+* Contributed to a knowledge base system that improved self-service resolution rates by 35% and reduced average call handling time by 20%.
