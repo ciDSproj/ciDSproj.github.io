@@ -15,7 +15,7 @@ Education
   * [Coursework](https://github.com/ciDSproj/coursework): Machine Learning (Advanced & Ensemble), Deep Learning (MLP, DNN, RNN-LSTM), Time Series, Statistical Modeling and Regression, SQL for Analytics, Data Visualization
   * Capstone: Built predictive models for semiconductor manufacturing using feature selection and neural networks
 * **Professional Certificate in Data Science** - Microsoft edX, 2019
-* **M.S. in Civil Engineering and Building Services**, [Gheorghe Asachi Technical University of Iasi](https://www.tuiasi.ro/?lang=en), Romania, GPA: 9.70/10
+* **M.S. in Civil Engineering and Building Services**, [Gh. Asachi Technical University of Iasi](https://www.tuiasi.ro/?lang=en), Romania, GPA: 9.70/10
 
 Skills
 ======
