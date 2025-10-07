@@ -19,17 +19,17 @@ Education
 
 Featured Projects
 ======
-1. **Credit Risk Analysis**<br/>
+* **Credit Risk Analysis**<br/>
 Boosted model accuracy from 65% to 77% by optimizing classification techniques and evaluating trade-offs between accuracy and F1 score for minority class prediction.
-2. **Health Insurance Cost Prediction**<br/>
+* **Health Insurance Cost Prediction**<br/>
 Developed regression models that improved forecast accuracy by 33%, enabling better planning and cost estimation.
-3. **CO₂ Emissions Forecasting**<br/>
+* **CO₂ Emissions Forecasting**<br/>
 Built time series models achieving 95% lower MSE (0.09 vs. 2.01) for one-step ahead forecasts, outperforming dynamic forecasts. 
-4. **Ecommerce Sales Analysis**<br/>
+* **Ecommerce Sales Analysis**<br/>
 Queried and analyzed seasonal sales trends using SQLite and Python uncovering regional and payment-based patterns.
-5. **Job Market Text Mining**<br/>
+* **Job Market Text Mining**<br/>
 Scraped and processed job postings (Python, NLTK), engineered features to extract salary insights and identify in-demand tools and platforms.
-6. **Ecommerce Dashboard**<br/>
+* **Ecommerce Dashboard**<br/>
 Designed a Power BI dashboard to monitor KPIs across products and regions, highlighting the most profitable customer segments.
 
 Skills
