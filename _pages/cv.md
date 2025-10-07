@@ -39,12 +39,12 @@ Scraped and processed job postings (Python, NLTK), engineered features to extrac
 * **Ecommerce Dashboard**<br/>
 Designed a Power BI dashboard to monitor KPIs across products and regions, highlighting the most profitable customer segments.
 
-Work Experience
+Professional Experience
 ======
-March 2008 – October 2018: Software Test/Support Engineer, [Formotus, Inc.](https://www.softwareadvice.com/home-inspections/formotus-profile)
-* Responsible for in-depth analysis of critical user issues, resolving over 25% of support tickets on first contact, enhancing customer satisfaction.
-* Collaborated with the product development team to identify and resolve technical issues, resulting in a 30% reduction in response time for critical problems.
-* Worked with cross-functional teams to identify and implement process improvements, resulting in a 10% increase in software release and rollout.
-* Developed and delivered training programs for potential clients, resulting in a 15% increase in enrolling new customers.
-* Designed, tested, and deployed mobile forms for 70% of the customers.
-* Contributed to a knowledge base system that improved self-service resolution rates by 35% and reduced average call handling time by 20%.
+Software Test & Support Engineer - [Formotus Inc., Bellevue, WA](https://www.softwareadvice.com/home-inspections/formotus-profile/), 2008 - 2018
+* Resolved 25% of support tickets on first contact, improving customer satisfaction.
+* Partnered with development teams to reduce critical issue response time by 30%.
+* Led process improvements that accelerated software release cycles by 10%.
+* Delivered client training programs, boosting customer acquisition by 15%.
+* Designed and deployed mobile forms for 70% of clients.
+* Contributed to knowledge base system, increasing self-service resolution by 35% and reducing call handling time by 20%.
