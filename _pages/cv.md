@@ -17,6 +17,13 @@ Education
 * **Professional Certificate in Data Science** - Microsoft edX, 2019
 * **M.S. in Civil Engineering and Building Services**, [Gheorghe Asachi Technical University of Iasi](https://www.tuiasi.ro/?lang=en), Romania, GPA: 9.70/10
 
+Skills
+======
+* **Programming & Tools**: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, SciPy, TensorFlow, Keras), Jupyter Notebook, Git, SQL (basic)
+* **Modeling & Analytics**: Regression, Classification, Clustering, Model Evaluation, Hypothesis Testing, Probability, Descriptive & Inferential Analysis
+* **Data Wrangling & Querying**: Pandas, SQLite
+* **Visualization & Communication**: Power BI, Dashboard storytelling, Report writing
+
 Featured Projects
 ======
 * **Credit Risk Analysis**<br/>
@@ -31,13 +38,6 @@ Queried and analyzed seasonal sales trends using SQLite and Python uncovering re
 Scraped and processed job postings (Python, NLTK), engineered features to extract salary insights and identify in-demand tools and platforms.
 * **Ecommerce Dashboard**<br/>
 Designed a Power BI dashboard to monitor KPIs across products and regions, highlighting the most profitable customer segments.
-
-Skills
-======
-* **Programming & Tools**: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, SciPy, TensorFlow, Keras), Jupyter Notebook, Git, SQL (basic)
-* **Modeling & Analytics**: Regression, Classification, Clustering, Model Evaluation, Hypothesis Testing, Probability, Descriptive & Inferential Analysis
-* **Data Wrangling & Querying**: Pandas, SQLite
-* **Visualization & Communication**: Power BI, Dashboard storytelling, Report writing
 
 Work Experience
 ======
