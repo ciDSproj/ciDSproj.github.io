@@ -1,11 +1,10 @@
 ---
-title: "CO2 Forecasting with Time Series"
-excerpt: "In this project I built a seasonal ARIMA model to produce one-step ahead, dynamic and future forecasts for CO2 atmospheric concentrations.<br/>"
+title: "CO₂ Emissions Forecasting"
+excerpt: "Developed and evaluated time series forecasting models; one-step ahead model achieved a 95% lower Mean Squared Error (MSE = 0.09) compared to dynamic forecasts (MSE = 2.01).<br/>"
 
 collection: machinelearning
 ---
-
-This analysis focuses on CO2 atmospheric concentrations dataset. It covers data preparation and exploration using visualization and STL decomposition, checking stationarity by applying the Dickey-Fuller test and computing and plotting the ACF and PACF values.
+The analysis focuses on CO₂ atmospheric concentrations dataset. It covers data preparation and exploration using visualization and STL decomposition, checking stationarity by applying the Dickey-Fuller test and computing and plotting the ACF and PACF values. I also built a seasonal ARIMA model to produce one-step ahead, dynamic and future forecasts for CO₂ emissions forecasting.
 <br/>
 
 [GitHub](https://github.com/ciDSproj/timeseries_forecast)
