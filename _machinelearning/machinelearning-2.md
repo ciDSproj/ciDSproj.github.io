@@ -1,10 +1,12 @@
 ---
-title: "Health Insurance Prediction"
-excerpt: "This project contains data visualization, feature engineering and building linear regression models for predicting insurance costs using medical personal expenses billed by a health insurance company.<br/>"
+title: "Health Insurance Cost Prediction"
+excerpt: "Developed a predictive model that improved insurance forecast accuracy by 33%, significantly outperforming previous forecasting methods and enabling more accurate insurance planning.<br/>"
 
 collection: machinelearning
 ---
+This project contains data visualization, feature engineering and building linear regression models for predicting insurance costs using medical personal expenses billed by a health insurance company.
 <br/>
+
 [GitHub](https://github.com/ciDSproj/insurance_prediction)
 
 ---
