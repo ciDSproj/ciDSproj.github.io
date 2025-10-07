@@ -34,15 +34,10 @@ Designed a Power BI dashboard to monitor KPIs across products and regions, highl
 
 Skills
 ======
-* **Programming**: Python (Pandas, NumPy, Matplotlib, Seaborn, Statsmodels, Scikit-learn, SciPy, TensorFlow, Keras)
-* **Statistics**: Hypothesis Testing, Probability, Descriptive & Inferential Stats
-* **Machine Learning**: Regression, Classification, Clustering, Model Evaluation
-* **Data Wrangling**: Python (Pandas), SQLite
-* **Visualization**: Matplotlib, Seaborn, Power BI
-* **Tools**: Jupyter Notebook, Git, Excel, SQL (basic)
-* **Communication**: 
-  * Dashboard storytelling, report writing
-  * Ability to make complex information accessible and visually compelling and communicate technical insights clearly to both technical and non-technical audiences
+* **Programming & Tools**: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, SciPy, TensorFlow, Keras), Jupyter Notebook, Git, SQL (basic)
+* **Modeling & Analytics**: Regression, Classification, Clustering, Model Evaluation, Hypothesis Testing, Probability, Descriptive & Inferential Analysis
+* **Data Wrangling & Querying**: Pandas, SQLite
+* **Visualization & Communication**: Power BI, Dashboard storytelling, Report writing
 
 Work Experience
 ======
