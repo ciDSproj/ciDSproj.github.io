@@ -1,6 +1,6 @@
 ---
-title: "Online Sales Product Analysis"
-excerpt: "The project contains an analysis of the global online sales transactions across various products in 2024. I retrieved data from a database, processed it, and used visualizations for answering business questions.<br/>
+title: "Ecommerce Sales Analysis"
+excerpt: "Used SQLite and Python to retrieve data from a database, explore and analyze seasonal sales trends by region and payment distribution.<br/>
 
 
 <img src='/images/da1_monthly_prod.png'>"
