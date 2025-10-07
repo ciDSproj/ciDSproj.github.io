@@ -1,9 +1,10 @@
 ---
 title: "Credit Risk Analysis"
-excerpt: "The goal of this project was to build a classifier to predict whether a loan will be paid back, based on a dataset containing information on the loan structure and the borrower. After a thorough data analysis, I built several classification models.<br/>"
+excerpt: "Improved classification model accuracy by 18%, increasing performance from 65% to 77%, and analyzed the trade-off between accuracy and F1 score for predicting the minority class.<br/>"
 
 collection: machinelearning
 ---
+The goal of this project was to build a classifier to predict whether a loan will be paid back, based on a dataset containing information on the loan structure and the borrower. After a thorough data analysis, I built several classification models.
 <br/>
 [GitHub](https://github.com/ciDSproj/loan_classification)
 
