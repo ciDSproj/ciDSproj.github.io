@@ -24,7 +24,7 @@ Skills
 * **Data Wrangling & Querying**: Pandas, SQLite
 * **Visualization & Communication**: Power BI, Dashboard storytelling, Report writing
 
-Featured Projects
+Projects
 ======
 * **Credit Risk Analysis**<br/>
 Boosted model accuracy from 65% to 77% by optimizing classification techniques and evaluating trade-offs between accuracy and F1 score for minority class prediction.
