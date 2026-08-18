@@ -38,6 +38,8 @@ Queried and analyzed seasonal sales trends using SQLite and Python uncovering re
 Scraped and processed job postings (Python, NLTK), engineered features to extract salary insights and identify in-demand tools and platforms.
 * **Ecommerce Dashboard**<br/>
 Designed a Power BI dashboard to monitor KPIs across products and regions, highlighting the most profitable customer segments.
+* **IMDB Sentiment Classification with LSTM**<br/>
+Built and trained an LSTM‑based neural network for binary sentiment classification on the IMDB dataset, achieving 86% test accuracy and enabling custom review text predictions with associated probabilities.
 
 Professional Experience
 ======
