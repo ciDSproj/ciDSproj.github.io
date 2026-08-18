@@ -1,19 +1,22 @@
 ---
 title: "IMDB Sentiment Classification with LSTM"
-excerpt: "Built a neural network model that classifies movie reviews from the IMDB dataset as **positive** or **negative** using an LSTM architecture. This project demonstrates deep learning model development, evaluation, and custom text inference.<br/>"
+excerpt: "Built a neural network model that classifies movie reviews from the IMDB dataset as positive or negative using an LSTM architecture. This project demonstrates deep learning model development, evaluation, and custom text inference.<br/>"
 
 collection: machinelearning
 ---
+In this project I built a binary sentiment classifier using the IMDB movie reviews dataset. The model uses an **Embedding layer**, an **LSTM layer with dropout**, and **Dense layers** to learn patterns in text sequences. After preprocessing and padding sequences to a fixed length, the model achieved **86% test accuracy** on unseen test data.
 <br/>
-[GitHub](https://github.com/ciDSproj/wine_classification)
+
+[GitHub](https://github.com/ciDSproj/imdb_reviews)
 
 ---
 
 
-Dimensionality reduction via feature selection allows reducing the complexity of the model and avoiding overfitting. Via feature selection we select a subset of the original features, or we can apply regularization techniques. 
+The training curves show a good learning pattern:  
+- **Accuracy:**Both training and validation accuracy curves improve steadily and stay close to each other, indicating good generalization.  
+- **Loss:** The gap between the training and validation loss curves remains small, suggesting the model is not overfitting.  
 
-
-Below are some plots showing the top features selected by different techniques.
+Overall, the model learns effectively across the three epochs, achieving strong performance on both training and validation sets.
 
 
 
@@ -21,12 +24,5 @@ Below are some plots showing the top features selected by different techniques.
 
 
 
-<img src='/images/ml3_sequential_feature.png'>
-
-
-
-Here we can see the relative importance of the features in the wine dataset using a random forest model.
-
-
-
-<img src='/images/ml3_feature_import.png'>
+To make the model interactive, I added a custom prediction function that encodes and pads any user‑provided review text, 
+allowing the network to generate sentiment predictions with associated probabilities. 
