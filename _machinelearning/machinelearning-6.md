@@ -13,7 +13,7 @@ In this project I built a binary sentiment classifier using the IMDB movie revie
 
 
 The training curves show a good learning pattern:  
-- **Accuracy: **Both training and validation accuracy curves improve steadily and stay close to each other, indicating good generalization.  
+- **Accuracy:** Both training and validation accuracy curves improve steadily and stay close to each other, indicating good generalization.  
 - **Loss:** The gap between the training and validation loss curves remains small, suggesting the model is not overfitting.  
 
 Overall, the model learns effectively across the three epochs, achieving strong performance on both training and validation sets.
