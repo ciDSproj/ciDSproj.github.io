@@ -20,7 +20,7 @@ Overall, the model learns effectively across the three epochs, achieving strong 
 
 
 
-<img src='/images/ml3_corr_feature.png'>
+<img src='/images/ml6_training_history.png'>
 
 
 
