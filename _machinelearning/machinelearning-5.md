@@ -1,5 +1,5 @@
 ---
-title: "A/B Test E‑Commerce Checkout Optimization"
+title: "A/B Test Ecommerce Checkout Optimization"
 excerpt: "Executed an A/B test on an Ecommerce checkout low using 10,000 users.<br/>"
 
 collection: machinelearning
