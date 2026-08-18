@@ -24,5 +24,6 @@ Overall, the model learns effectively across the three epochs, achieving strong 
 
 
 
+
 To make the model interactive, I added a custom prediction function that encodes and pads any user‑provided review text, 
 allowing the network to generate sentiment predictions with associated probabilities. 
