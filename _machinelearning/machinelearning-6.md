@@ -1,6 +1,6 @@
 ---
 title: "IMDB Sentiment Classification with LSTM"
-excerpt: "Built a neural network model that classifies movie reviews from the IMDB dataset as positive or negative using an LSTM architecture. This project demonstrates deep learning model development, evaluation, and custom text inference.<br/>"
+excerpt: "Built a neural network model that classifies movie reviews from the IMDB dataset as positive or negative using an LSTM architecture achieving 86% test accuracy and enabling custom review text predictions with associated probabilities.<br/>"
 
 collection: machinelearning
 ---
@@ -25,5 +25,5 @@ Overall, the model learns effectively across the three epochs, achieving strong 
 
 
 
-To make the model interactive, I added a custom prediction function that encodes and pads any user‑provided review text, 
+To make the model interactive, I added a **custom prediction function** that encodes and pads any user‑provided review text, 
 allowing the network to generate sentiment predictions with associated probabilities. 
