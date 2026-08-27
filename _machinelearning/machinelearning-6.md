@@ -1,6 +1,6 @@
 ---
 title: "IMDB Sentiment Classification with LSTM"
-excerpt: "Built a neural network model that classifies movie reviews from the IMDB dataset as positive or negative using an LSTM architecture achieving 86% test accuracy and enabling custom review text predictions with associated probabilities.<br/>"
+excerpt: "Built a neural network model that classifies movie reviews from the IMDB dataset as positive or negative using an LSTM architecture, including custom review prediction for real‑time inference.<br/>"
 
 collection: machinelearning
 ---
