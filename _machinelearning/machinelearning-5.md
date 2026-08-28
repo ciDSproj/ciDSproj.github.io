@@ -11,8 +11,7 @@ The goal of this project was to determine whether a redesigned e‑commerce chec
 
 ---
 
-Using a dataset of 10,000 simulated shoppers I measured conversion performance between control and treatment groups, 
-applied a two‑sample z‑test, conducted a Minimum Detectable Effect (MDE) power analysis to ensure the experiment was properly sized to detect the target lift and a Chi‑Square Sample Ratio Mismatch (SRM) check, to validate the experiment integrity. 
+Using a dataset of **10,000 simulated shoppers**, I measured **conversion performance** between control and treatment groups, applied a **Two‑Sample Z‑test**, conducted a **Minimum Detectable Effect (MDE)** power analysis to ensure the experiment was properly sized to detect the target lift and a **Chi‑Square Sample Ratio Mismatch (SRM)** check, to validate the experiment integrity. 
  
 
 
@@ -20,7 +19,7 @@ applied a two‑sample z‑test, conducted a Minimum Detectable Effect (MDE) pow
 
 
 
-The strength of the results support the rollout of the redesigned checkout experience. The data indicates that the new design will reliably improve checkout completion and overall sales performance.
+The strength of the results support the **rollout of the redesigned checkout experience**. The data indicates that the new design will reliably improve checkout completion and overall sales performance.
 
 
 
