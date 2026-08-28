@@ -15,7 +15,7 @@ Using a dataset of **10,000 simulated shoppers**, I measured **conversion perfor
  
 
 
-<img src='/images/ml3_corr_feature.png'>
+<img src='/images/ml5_conversion_rate.png'>
 
 
 
