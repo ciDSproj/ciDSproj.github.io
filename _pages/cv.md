@@ -40,6 +40,9 @@ Scraped and processed job postings (Python, NLTK), engineered features to extrac
 Designed a Power BI dashboard to monitor KPIs across products and regions, highlighting the most profitable customer segments.
 * **IMDB Sentiment Classification with LSTM**<br/>
 Built and trained an LSTM‑based neural network for binary sentiment classification on the IMDB dataset, achieving 86% test accuracy and enabling custom review text predictions with associated probabilities.
+* **A/B Test Ecommerce Checkout Optimization**<br/>
+Executed a 10,000‑user A/B test on an e‑commerce checkout flow and validated experiment integrity using z‑tests, MDE power analysis, and Chi‑Square SRM checks to support a data‑driven rollout of the redesigned experience.
+
 
 Professional Experience
 ======
