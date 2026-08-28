@@ -26,8 +26,10 @@ Skills
 
 Projects
 ======
-* **Credit Risk Analysis**: Boosted model accuracy from 65% to 77% by optimizing classification techniques and evaluating trade-offs between accuracy and F1 score for minority class prediction.
-* **Health Insurance Cost Prediction**: Developed regression models that improved forecast accuracy by 33%, enabling better planning and cost estimation.
+* **Credit Risk Analysis**<br/>
+Boosted model accuracy from 65% to 77% by optimizing classification techniques and evaluating trade-offs between accuracy and F1 score for minority class prediction.
+* **Health Insurance Cost Prediction**<br/>
+Developed regression models that improved forecast accuracy by 33%, enabling better planning and cost estimation.
 * **CO₂ Emissions Forecasting**<br/>
 Built time series models achieving 95% lower MSE (0.09 vs. 2.01) for one-step ahead forecasts, outperforming dynamic forecasts. 
 * **Ecommerce Sales Analysis**<br/>
