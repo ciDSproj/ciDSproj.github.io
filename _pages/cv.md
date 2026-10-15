@@ -9,22 +9,23 @@ redirect_from:
 
 {% include base_path %}
 
+Professional Summary
+======
+Data Scientist with advanced training in machine learning, predictive analytics, and business intelligence, plus 10 years of engineering and software support experience. Leverages Python, SQL, Power BI, and statistical analysis to deliver data-driven insights and business solutions.
+
+Technical Skills
+======
+* **Languages & Tools**: Python (Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, Keras), SQLite, Power BI, Jupyter Notebook 
+* **Data Science**: Machine Learning, Deep Learning, Regression, Classification, Clustering, Feature Engineering, Model Evaluation, Time Series Forecasting
+* **Analytics & Statistics**: A/B Testing, Hypothesis Testing, Statistical Analysis, Predictive Modeling, Data Visualization, Dashboard Development
+
 Education
 ======
-* **Certificate in Data Science** - [University of Washington, Professional & Continuing Education](https://www.pce.uw.edu/certificates/data-science), 2021
-  * [Coursework](https://github.com/ciDSproj/coursework): Machine Learning (Advanced & Ensemble), Deep Learning (MLP, DNN, RNN-LSTM), Time Series, Statistical Modeling and Regression, SQL for Analytics, Data Visualization
-  * Capstone: Built predictive models for semiconductor manufacturing using feature selection and neural networks
-* **Professional Certificate in Data Science** - Microsoft edX, 2019
-* **M.S. in Civil Engineering and Building Services**, [Gh. Asachi Technical University of Iasi](https://www.tuiasi.ro/?lang=en), Romania, GPA: 9.70/10
+* **Certificate in Data Science** - [University of Washington, Professional & Continuing Education](https://www.pce.uw.edu/certificates/data-science) | 2021
+* **Microsoft Professional Program in Data Science** - edX | 2019
+* **M.S. Civil Engineering & Building Services** - [Gh. Asachi Technical University of Iasi](https://www.tuiasi.ro/?lang=en), Romania | GPA: 9.70/10
 
-Skills
-======
-* **Programming & Tools**: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, SciPy, TensorFlow, Keras), Jupyter Notebook, Git, SQL (basic)
-* **Modeling & Analytics**: Regression, Classification, Clustering, Model Evaluation, Hypothesis Testing, Probability, Descriptive & Inferential Analysis
-* **Data Wrangling & Querying**: Pandas, SQLite
-* **Visualization & Communication**: Power BI, Dashboard storytelling, Report writing
-
-Projects
+Data Science Projects
 ======
 * **Credit Risk Analysis**<br/>
 Boosted model accuracy from 65% to 77% by optimizing classification techniques and evaluating trade-offs between accuracy and F1 score for minority class prediction.
