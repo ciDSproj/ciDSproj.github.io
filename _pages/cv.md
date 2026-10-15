@@ -21,9 +21,9 @@ Technical Skills
 
 Education
 ======
-* **Certificate in Data Science** - [University of Washington, Professional & Continuing Education](https://www.pce.uw.edu/certificates/data-science) | 2021
-* **Microsoft Professional Program in Data Science** - edX | 2019
-* **M.S. Civil Engineering & Building Services** - [Gh. Asachi Technical University of Iasi](https://www.tuiasi.ro/?lang=en), Romania | GPA: 9.70/10
+* **Certificate in Data Science** - [University of Washington, Professional & Continuing Education](https://www.pce.uw.edu/certificates/data-science), 2021
+* **Microsoft Professional Program in Data Science** - edX, 2019
+* **M.S. Civil Engineering & Building Services** - [Gh. Asachi Technical University of Iasi](https://www.tuiasi.ro/?lang=en), Romania, GPA: 9.70/10
 
 Data Science Projects
 ======
