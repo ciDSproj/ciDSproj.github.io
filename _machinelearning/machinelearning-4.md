@@ -10,7 +10,7 @@ collection: machinelearning
 ---
 
 
-Dimensionality reduction via feature selection allows reducing the complexity of the model and avoiding overfitting. Via feature selection we select a subset of the original features, or we can apply regularization techniques. 
+The models built in this project for wine classification used a subset of the original features as good predictors of the target. For selecting the features, I applied filter and wrapper methods and L1 and L2 regularization techniques as penalties against model complexity.
 
 
 Below are some plots showing the top features selected by different techniques.
