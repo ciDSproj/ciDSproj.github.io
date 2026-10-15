@@ -1,6 +1,6 @@
 ---
 title: "Health Insurance Cost Prediction"
-excerpt: "Developed a predictive model that improved insurance forecast accuracy by 33%, significantly outperforming previous forecasting methods and enabling more accurate insurance planning.<br/>"
+excerpt: "Developed regression models that improved forecast accuracy by 33%, enabling better planning and cost estimation.<br/>"
 
 collection: machinelearning
 ---
