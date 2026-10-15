@@ -1,6 +1,6 @@
 ---
 title: "Ecommerce Sales Analysis"
-excerpt: "Queried and analyzed seasonal sales trends using SQLite and Python uncovering regional and payment-based patterns..<br/>
+excerpt: "Queried and analyzed seasonal sales trends using SQLite and Python uncovering regional and payment-based patterns.<br/>
 
 
 <img src='/images/da1_monthly_prod.png'>"
