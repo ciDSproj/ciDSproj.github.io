@@ -44,6 +44,7 @@ Professional Experience
 * Completed advanced training in machine learning, statistical modeling, predictive analytics, and data science through University of Washington and Microsoft certification programs.
 * Built end-to-end analytics and machine learning solutions using Python, SQL, TensorFlow, Scikit-learn, and Power BI.
 * Developed a portfolio of projects in credit risk modeling, sentiment analysis, A/B testing, time series forecasting, and business intelligence.
+
 **Software Test & Support Engineer - [Formotus Inc., Bellevue, WA](https://www.softwareadvice.com/home-inspections/formotus-profile/), 2008 - 2018**
 * Resolved complex software issues, improving first-contact resolution by **25%**.
 * Collaborated with engineering teams to reduce critical issue response time by **30%**.
