@@ -40,10 +40,12 @@ Designed an interactive dashboard tracking KPIs, profitability, customer segment
 
 Professional Experience
 ======
-Software Test & Support Engineer - [Formotus Inc., Bellevue, WA](https://www.softwareadvice.com/home-inspections/formotus-profile/), 2008 - 2018
-* Resolved 25% of support tickets on first contact, improving customer satisfaction.
-* Partnered with development teams to reduce critical issue response time by 30%.
-* Led process improvements that accelerated software release cycles by 10%.
-* Delivered client training programs, boosting customer acquisition by 15%.
-* Designed and deployed mobile forms for 70% of clients.
-* Contributed to knowledge base system, increasing self-service resolution by 35% and reducing call handling time by 20%.
+**Data Science Professional Development, 2018-Present**
+* Completed advanced training in machine learning, statistical modeling, predictive analytics, and data science through University of Washington and Microsoft certification programs.
+* Built end-to-end analytics and machine learning solutions using Python, SQL, TensorFlow, Scikit-learn, and Power BI.
+* Developed a portfolio of projects in credit risk modeling, sentiment analysis, A/B testing, time series forecasting, and business intelligence.
+**Software Test & Support Engineer - [Formotus Inc., Bellevue, WA](https://www.softwareadvice.com/home-inspections/formotus-profile/), 2008 - 2018**
+* Resolved complex software issues, improving first-contact resolution by **25%**.
+* Collaborated with engineering teams to reduce critical issue response time by **30%**.
+* Streamlined testing and support processes, accelerating software release cycles by **10%**.
+* Developed technical documentation and training materials that increased self-service resolution by **35%** and reduced support handling time by **20%**.
