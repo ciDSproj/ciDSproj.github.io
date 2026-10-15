@@ -1,6 +1,6 @@
 ---
 title: "Job Market Text Mining"
-excerpt: "Scraped job postings, streamlined and analyzed text (Python, NLTK), engineered features to quantify the average salary, the tools and platforms valued by companies.<br/>
+excerpt: "Scraped and processed job postings (Python, NLTK), engineered features to extract salary insights and identify in-demand tools and platforms.<br/>
 
 
 <img src='/images/da2_word_cloud.png'>"
