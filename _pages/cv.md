@@ -28,22 +28,15 @@ Education
 Data Science Projects
 ======
 * **Credit Risk Analysis**<br/>
-Boosted model accuracy from 65% to 77% by optimizing classification techniques and evaluating trade-offs between accuracy and F1 score for minority class prediction.
-* **Health Insurance Cost Prediction**<br/>
-Developed regression models that improved forecast accuracy by 33%, enabling better planning and cost estimation.
-* **CO₂ Emissions Forecasting**<br/>
-Built time series models achieving 95% lower MSE (0.09 vs. 2.01) for one-step ahead forecasts, outperforming dynamic forecasts. 
-* **Ecommerce Sales Analysis**<br/>
-Queried and analyzed seasonal sales trends using SQLite and Python uncovering regional and payment-based patterns.
-* **Job Market Text Mining**<br/>
-Scraped and processed job postings (Python, NLTK), engineered features to extract salary insights and identify in-demand tools and platforms.
-* **Ecommerce Dashboard**<br/>
-Designed a Power BI dashboard to monitor KPIs across products and regions, highlighting the most profitable customer segments.
+Improved credit risk classification performance by **18%**, balancing accuracy and F1 score for minority-class detection.
+* **A/B Test: Ecommerce Checkout Optimization**<br/>
+Analyzed a **10,000-user experiment** using z-tests, MDE power analysis, and SRM checks to support data-driven product decisions.
 * **IMDB Sentiment Classification with LSTM**<br/>
-Built and trained an LSTM‑based neural network for binary sentiment classification on the IMDB dataset, achieving 86% test accuracy and enabling custom review text predictions with associated probabilities.
-* **A/B Test Ecommerce Checkout Optimization**<br/>
-Executed a 10,000‑user A/B test on an e‑commerce checkout flow and validated experiment integrity using z‑tests, MDE power analysis, and Chi‑Square SRM checks to support a data‑driven rollout of the redesigned experience.
-
+Developed and trained an LSTM neural network achieving **86% test accuracy** for sentiment prediction on movie reviews.
+* **CO₂ Emissions Forecasting**<br/>
+Built time-series forecasting models that reduced MSE by **95%** (0.09 vs. 2.01) compared to baseline forecasts.
+* **Power BI Ecommerce Dashboard**<br/>
+Designed an interactive dashboard tracking KPIs, profitability, customer segments, and regional sales performance.
 
 Professional Experience
 ======
