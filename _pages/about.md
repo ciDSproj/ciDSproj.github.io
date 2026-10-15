@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Entry Level Data Scientist passionate about transforming raw data into actionable insights. 
+Data Scientist passionate about transforming raw data into actionable insights. 
 
 # About Me
 
