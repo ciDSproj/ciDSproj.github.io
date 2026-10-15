@@ -1,6 +1,6 @@
 ---
 title: "Students Academic Performance"
-excerpt: "This project contains data cleaning and preprocessing, followed by an analysis focused on the influence of a variety of personal, socio-economic, and cultural factors on students’ academic performance.<br/>
+excerpt: "Cleaned and analyzed student data to identify key personal, socio-economic, and cultural drivers of academic performance.<br/>
 
 
 <img src='/images/da3_score_prep.png'>"
