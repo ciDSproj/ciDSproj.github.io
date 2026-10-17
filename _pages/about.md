@@ -12,15 +12,11 @@ Data Scientist passionate about transforming raw data into actionable insights.
 
 # About Me
 
-I focus on exploratory analysis, predictive modeling, and interactive dashboards. I use Python programming, statistical analysis, and machine learning for my data projects, and Power BI for visual storytelling.
+I focus on machine learning, statistical analysis, predictive modeling, and data visualization. I use Python, exploratory analysis, and machine learning techniques to analyze data and build predictive models and Power BI to create interactive dashboards and compelling data stories for both technical and non-technical audiences.
 
-I’ve recently completed several hands-on projects that include: 
-- Analyzing complex datasets to uncover trends and patterns
-- Build and evaluate machine learning models for classification and regression tasks
-- Create compelling visualizations using Power BI and Python libraries like Matplotlib and Seaborn
-- Design interactive dashboards that communicate insights clearly to both technical and non-technical audiences
+My project work includes credit risk modeling, A/B testing, sentiment analysis using deep learning, time series forecasting, and interactive dashboard development. I enjoy using data to uncover patterns, answer questions, and solve real-world problems.
 
-My previous experience as software test/support engineer allowed me to acquire strong analytical, problem-solving and communication skills.
-Looking for a career switch to Data Science, I’m eager to join a data-driven team where I can contribute to impactful projects, continue learning and grow into a well-rounded data professional. I bring curiosity,  attention to detail, and the ability to make complex information accessible and visually compelling.
+Before transitioning into data science, I spent 10 years in software support and engineering, where I developed strong analytical thinking, problem-solving, and communication skills while collaborating with cross-functional teams.
+I’m eager to join a data-driven team where I can use my blend of technical experience and data modeling to contribute to impactful projects, continue learning and grow into a well-rounded data professional. I bring curiosity, attention to detail, and the ability to make complex information accessible and visually compelling.
 
 Outside of data science, I enjoy hiking, skiing, traveling, and playing with my dog Layla.
